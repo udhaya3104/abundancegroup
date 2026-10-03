@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import "./light-theme.css";
+import "./crm.css";
 
 export const metadata: Metadata = {
-  title: "Nucleus · Zero Rent CRM",
-  description: "AI-powered lead and sales operations for premium coworking spaces.",
+  title: "Abundance Group · Workspace CRM",
+  description: "Lead, sales, conversations and billing for Abundance Group managed workspaces.",
   other: {
     "codex-preview": "development",
   },
